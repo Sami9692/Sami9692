@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Bachelors in CS.
 - 💞️ I’m looking to collaborate on Projects.
-- 📫 How to reach me, insta-@sam_iwtf;
+- 📫 How to reach me,  instagram-@sam_iwtf;
 -                      Twitter-@SamiMirjannavar
 -                      Linkedin-Sami Mirjannavar
 - 😄 Pronouns: ...
