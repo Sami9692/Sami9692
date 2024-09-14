@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Sami9692
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Bachelors in CS.
+- 🌱 I’m currently persuing B.Tech in CSE.
 - 💞️ I’m looking to collaborate on Projects.
-- 📫 How to reach me,  instagram-@sam_iwtf;
--                      Twitter-@SamiMirjannavar
--                      Linkedin-Sami Mirjannavar
-- 😄 Pronouns: ...
+- 📫 How to reach me,  instagram-@sami_mirjannavar;
+-                      Twitter-@SamiMirjannavar;
+-                      Linkedin-Sami Mirjannavar;
 - ⚡ Fun fact: NOthing
 
 <!---
